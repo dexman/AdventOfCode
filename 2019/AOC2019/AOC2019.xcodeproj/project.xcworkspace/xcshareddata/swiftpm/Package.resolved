@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "AdventOfCodeUtils",
+        "repositoryURL": "https://github.com/dexman/AdventOfCodeUtils",
+        "state": {
+          "branch": "master",
+          "revision": "ac5fda6236484c66b8c6b0574ab73e3f91d67e38",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
